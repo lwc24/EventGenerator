@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lwc24.eventgenerator.services
 
+import com.github.lwc24.eventgenerator.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
